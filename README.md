@@ -12,3 +12,4 @@ important links:
 2.https://en.wikipedia.org/wiki/Main_Page
 
 
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
